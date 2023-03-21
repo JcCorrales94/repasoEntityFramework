@@ -711,11 +711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rocio\\Documents\\Formacion\\Programación\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Repositorie\\RepasoDapper.Repositorie.csproj",
+      "projectUniqueName": "D:\\Rocio\\Documents\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Repositorie\\RepasoDapper.Repositorie.csproj",
       "projectName": "RepasoDapper.Repositorie",
-      "projectPath": "D:\\Rocio\\Documents\\Formacion\\Programación\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Repositorie\\RepasoDapper.Repositorie.csproj",
+      "projectPath": "D:\\Rocio\\Documents\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Repositorie\\RepasoDapper.Repositorie.csproj",
       "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
-      "outputPath": "D:\\Rocio\\Documents\\Formacion\\Programación\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Repositorie\\obj\\",
+      "outputPath": "D:\\Rocio\\Documents\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Repositorie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -737,8 +737,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Rocio\\Documents\\Formacion\\Programación\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Entities\\RepasoDapper.Entities.csproj": {
-              "projectPath": "D:\\Rocio\\Documents\\Formacion\\Programación\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Entities\\RepasoDapper.Entities.csproj"
+            "D:\\Rocio\\Documents\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Entities\\RepasoDapper.Entities.csproj": {
+              "projectPath": "D:\\Rocio\\Documents\\CodeHouse\\mi código\\Teoria\\.NET\\05-AccesoDatos\\ListaEjercicios05\\07- EntityFramework\\RepasoEntity\\repasoEntityFramework\\RepasoDapper.Entities\\RepasoDapper.Entities.csproj"
             }
           }
         }
