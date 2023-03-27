@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RepasoDapper.Repositorie",
+    "\\RepasoDapper.Repositorie\\Authors",
+    "\\RepasoDapper.Repositorie\\Books"
   ],
   "SelectedNode": "\\RepasoDapper.sln",
   "PreviewInSolutionExplorer": false
